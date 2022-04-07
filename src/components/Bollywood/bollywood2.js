@@ -53,7 +53,7 @@ const Bollywood2 = ()=> (
  </div>
  <div className="left-content-con con-width">
      <div className='bl-heading'>
-        <h1 className='bl-h1'>More from the siren</h1>
+        <h1 className='bl-h1 hd'>More from the siren</h1>
     </div>
 
     <div className="art-cards-con">
